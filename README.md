@@ -101,7 +101,7 @@ curl http://localhost:8080
 See `docs/architecture.png`
 
 ## Blog Post
-https://dev.to/iamhendy/how-i-built-a-real-time-ddos-detection-engine-for-nextcloud
+https://dev.to/iamhendy/how-i-built-a-real-time-ddos-detection-engine-for-nextcloud-from-scratch-17hl
 
 ## Screenshots
 - `screenshots/Tool-running.png` — Daemon running
